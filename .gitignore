@@ -21,9 +21,11 @@ wasm/test_page/node_modules
 /build-native
 /build-wasm
 /emsdk
-models
+/models/enuk
+/models/uken
 wasm/module/worker/bergamot-translator-worker.*
 wasm/module/browsermt-bergamot-translator-*.tgz
+bergamot-translator-worker.*
 
 # VSCode
 .vscode
